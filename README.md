@@ -1,2 +1,2 @@
-[클릭](https://3o14.github.io/movieWebService)
+[movie web service](https://3o14.github.io/movieWebService)
 ### Code Splitting
